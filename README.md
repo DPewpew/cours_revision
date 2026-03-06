@@ -93,7 +93,7 @@ Les prix du site sont en **livres sterling (GBP)**.
 Vous devrez convertir ces prix en **euros (EUR)** en utilisant l’API suivante :
 
 ```
-https://hexarate.paikama.co/api/rates/GBP/EUR/latest
+https://hexarate.paikama.co
 ```
 
 Cette API retourne le taux de change actuel.
